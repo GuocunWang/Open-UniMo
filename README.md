@@ -16,9 +16,9 @@
     Guorui Song<sup>1*</sup>,
     Jing Lin<sup>3</sup>,
     Zhe Huang<sup>1</sup>,
-    Luyuan Zhang<sup>1</sup>,
+    Luyuan Zhang<sup>1</sup>,<br>
     Dake Zhong<sup>1</sup>,
-    Choo Sin Wai<sup>1</sup>,<br>
+    Choo Sin Wai<sup>1</sup>,
     Xiaoguang Han<sup>2</sup>,
     Haoqian Wang<sup>1†</sup>
   </b>
@@ -55,3 +55,24 @@ Open-UniMo addresses these challenges by:
 - 📊 Introducing **Open-MoBench**, a VLM-guided benchmark that jointly evaluates Text-to-Motion generation, Motion-to-Text understanding, and bidirectional consistency.
 
 Open-UniMo achieves state-of-the-art performance on both conventional metrics and Open-MoBench. Our experiments further reveal that generation and understanding are not isolated abilities: coupling M2T understanding with the learnable T2M generation path produces stronger cross-modal representations, showing that **generation can facilitate understanding in AR-based motion-language models**.
+
+## Acknowledgements
+
+* [MotionMillion](https://github.com/VankouF/MotionMillion-Codes)
+* [HumanML3D](https://github.com/EricGuo5513/HumanML3D)
+* [Qwen2.5-3B-Instruct](https://huggingface.co/Qwen/Qwen2.5-3B-Instruct)
+
+## Citation
+If you find Open-UniMo useful for your research, please cite our paper:
+
+```bibtex
+@misc{wang2026openunimounifiedmotionlanguageunderstanding,
+      title={Open-UniMo: Towards Unified Motion-Language Understanding and Generation in the Open World}, 
+      author={Guocun Wang and Kenkun Liu and Guorui Song and Jing Lin and Zhe Huang and Luyuan Zhang and Dake Zhong and Choo Sin Wai and Xiaoguang Han and Haoqian Wang},
+      year={2026},
+      eprint={2609.14615},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2609.14615}, 
+}
+```
