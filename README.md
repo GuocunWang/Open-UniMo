@@ -1,12 +1,8 @@
 # Open-UniMo: Towards Unified Motion-Language Understanding and Generation in the Open World
 
 <p align="center">
-  <a href="https://github.com/GuocunWang/Open-UniMo">
-    <img src="https://img.shields.io/badge/Code-GitHub-black.svg" alt="GitHub">
-  </a>
-  <a href="https://github.com/GuocunWang/UniMo">
-    <img src="https://img.shields.io/badge/Previous-UniMo-blue.svg" alt="UniMo">
-  </a>
+  <a href="https://arxiv.org/abs/2609.14615"><img src="https://img.shields.io/badge/Paper-arXiv-b31b1b.svg" alt="Paper"></a>
+  <a href="https://github.com/GuocunWang/UniMo"><img src="https://img.shields.io/badge/Previous-UniMo-blue.svg" alt="UniMo"></a>
 </p>
 
 <p align="center">
